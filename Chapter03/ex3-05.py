@@ -1,0 +1,6 @@
+print("Hello, World!")
+print('Hello, Wolrd')
+print(2.2 + 2.2)
+print(True)
+print(False)
+print(None)
