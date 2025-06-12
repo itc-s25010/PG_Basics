@@ -1,0 +1,2 @@
+import eubed
+eubed.f()
